@@ -5,7 +5,7 @@ authors:
   given-names: "Mridun"
   orcid: "https://orcid.org/0009-0004-7262-811X"
 title: "CipherPy"
-version: 1.0.1
+version: 1.0.0
 doi: 10.5281/zenodo.17483131
-date-released: 2025-10-30
+date-released: 2026-11-14
 url: "https://github.com/mridun-gupta/CipherPy"
